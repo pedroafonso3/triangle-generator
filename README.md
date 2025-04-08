@@ -1,5 +1,5 @@
 # Triangle Generator
-Projeto a fins de treinamento, que um usuário passa o número para o tamanho de um triângulo desejado.
+Projeto a fins de treinamento, que, um usuário passa o número para o tamanho de um triângulo desejado.
 
 
 ## 🛠 Skills
